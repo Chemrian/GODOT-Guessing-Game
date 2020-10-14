@@ -1,1 +1,3 @@
 Blablabla
+
+New line, which will be a conflict. Choose me, choose me!
